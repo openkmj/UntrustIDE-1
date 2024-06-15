@@ -1,3 +1,3 @@
 {
-  "python.pythonPath": "./malicious"
+  "python.pythonPath": "./malicious;"
 }
